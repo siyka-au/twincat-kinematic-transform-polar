@@ -1,0 +1,37 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <FileVersion>1.0.0.0</FileVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{b8102f3a-6a81-446d-87dd-d55b711b4f7c}</ProjectGuid>
+    <SubObjectsSortedByName>True</SubObjectsSortedByName>
+    <DownloadApplicationInfo>true</DownloadApplicationInfo>
+    <WriteProductVersion>true</WriteProductVersion>
+    <GenerateTpy>false</GenerateTpy>
+    <Name>Untitled1</Name>
+    <ProgramVersion>3.1.4024.0</ProgramVersion>
+    <Application>{03f6d5ba-2375-4671-a6f3-f6e25c01373d}</Application>
+    <TypeSystem>{346590b8-73af-49b1-bdca-6dd23f42eb91}</TypeSystem>
+    <Implicit_Task_Info>{8931ab3f-f1af-4cb0-8ddd-b6023dbd6343}</Implicit_Task_Info>
+    <Implicit_KindOfTask>{56e2212d-df0b-4f3f-89f2-165aeb2f6544}</Implicit_KindOfTask>
+    <Implicit_Jitter_Distribution>{8354e01b-b41e-43c3-8a04-af2f0d5b6395}</Implicit_Jitter_Distribution>
+    <LibraryReferences>{62fb55fc-046f-4078-97d5-df233ac33d9e}</LibraryReferences>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <PlcProjectOptions>
+      <XmlArchive>
+  <Data>
+    <o xml:space="preserve" t="OptionKey">
+      <v n="Name">"&lt;ProjectRoot&gt;"</v>
+      <d n="SubKeys" t="Hashtable" />
+      <d n="Values" t="Hashtable" />
+    </o>
+  </Data>
+  <TypeList>
+    <Type n="Hashtable">System.Collections.Hashtable</Type>
+    <Type n="OptionKey">{54dd0eac-a6d8-46f2-8c27-2f43c7e49861}</Type>
+    <Type n="String">System.String</Type>
+  </TypeList>
+</XmlArchive>
+    </PlcProjectOptions>
+  </ProjectExtensions>
+</Project>
